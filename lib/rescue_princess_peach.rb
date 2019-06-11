@@ -1,6 +1,6 @@
 
 
-def rescue_princess_peach(message, status)
-  status = "alive"
-  puts "#{message}, #{status}"
+def rescue_princess_peach
+  status = "rescued"
+  puts "Hooray! You are recued."
 end
